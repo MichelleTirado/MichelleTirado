@@ -14,8 +14,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 
 ## 📊 GitHub Stats
-![Michelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelleTirado&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleTirado&layout=compact&theme=radical)
 
 
