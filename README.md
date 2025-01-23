@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hello World! I am Michelle Tirado
 
-<!--
-**MichelleTirado/MichelleTirado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer and passionate about SQL**  
+🌟 **I love learning new technologies and solving complex problems.**  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming Languages:** C#, SQL, JavaScript, TypeScript
+- **Frameworks:** .NET Framework, .NET Core, Angular
+- **Databases:** SQL Server, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **My favorite technologies:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+
+📫 **Contact me:**  
+- ✉️ [mich.stirado@gmail.com](mailto:mich.stirado@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/michelle-tirado-151885238/)
